@@ -1,0 +1,20 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetSectionText]    Script Date: 02/15/2009 17:52:47 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetSectionText]
+(
+	@SectionId int
+)
+AS
+SELECT SectionId, SectionText FROM SectionText WHERE SectionId = @SectionId
+
+GO
+

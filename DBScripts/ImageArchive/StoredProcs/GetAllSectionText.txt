@@ -1,0 +1,22 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetAllSectionText]    Script Date: 02/15/2009 17:51:15 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetAllSectionText]
+AS
+SELECT s.Id, s.Name, st.SectionText 
+FROM SectionText st INNER JOIN Sections s ON s.Id = st.SectionId 
+WHERE s.Name <> 'Unassigned'
+ORDER BY s.Name
+
+
+
+GO
+

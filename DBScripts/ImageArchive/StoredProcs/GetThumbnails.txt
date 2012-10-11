@@ -1,0 +1,23 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetThumbnails]    Script Date: 02/15/2009 17:53:07 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetThumbnails]
+(
+	@SectionId int
+)
+AS
+SET NOCOUNT ON
+
+SELECT [Ref], [Title] FROM [Images] WHERE [SectionId] = @SectionId
+
+
+GO
+

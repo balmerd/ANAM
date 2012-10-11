@@ -1,0 +1,17 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  Table [dbo].[Notes]    Script Date: 02/15/2009 17:49:27 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Notes](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[NoteText] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+

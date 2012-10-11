@@ -1,0 +1,26 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetSectionImageDetails]    Script Date: 02/15/2009 17:52:02 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetSectionImageDetails]
+(
+  @SectionId int
+)
+AS
+SELECT s.Id, s.Name, st.SectionText, '' AS Ref, '' AS Title, '' AS Caption, '' AS OriginalCaption
+FROM SectionText st INNER JOIN Sections s ON s.Id = st.SectionId 
+WHERE s.Id = @SectionId
+UNION ALL
+SELECT i.SectionId AS Id, '' as Name, '' as SectionText, i.Ref, i.Title, i.Caption, i.OriginalCaption
+FROM Images i 
+WHERE i.SectionId = @SectionId
+
+GO
+

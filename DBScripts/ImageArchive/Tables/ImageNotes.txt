@@ -1,0 +1,30 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  Table [dbo].[ImageNotes]    Script Date: 02/15/2009 17:47:23 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[ImageNotes](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[ImageId] [int] NOT NULL,
+	[NoteId] [int] NOT NULL,
+	[CreatedBy] [varchar](50) NULL,
+	[DateCreated] [datetime] NOT NULL CONSTRAINT [DF_ImageNotes_DateCreated]  DEFAULT (getdate()),
+ CONSTRAINT [PK_ImageNotes] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

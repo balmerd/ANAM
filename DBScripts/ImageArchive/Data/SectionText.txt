@@ -1,0 +1,215 @@
+﻿USE [ImageArchive]
+GO
+
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(1,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(2,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(3,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(4,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(5,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(6,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(7,N'Navy aircraft Crash Boats.  ARB is the nomenclature for trouble – the three letters designate a little-known adjunct to naval aviation aircraft rescue oats.  Nearly every place where Navy planes fly, ARB''s are standing by waiting.  Their job is to save planes and pilots, and all advance bases are on the job 24 hours a day.  The rough-riding 37 knot (about 43 mph?) navy Crash Boats rescue downed crews and salvage material before water ruins it')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(8,N'Early History, Before U.S. Naval Air Station, Alameda, California
+
+We must not overlook the importance of those supporting activities which while deprived of actual contact with the enemy, were integral parts of the fighting machine that is our Navy.
+
+Not so many years ago the Naval Air Station was no more than a haven for seagulls and long-necked herons which fished in the bay for food.
+
+It was a one-mile long sandy beach, a finger of land jutting out to "The Mole" where ferry boats went between Alameda and San Francisco, offloading passengers to connect with their respective commuter trains. 
+
+A gun club was located where the former Officer''s residences are now; otherwise very little was being done to improve this waste area.  Industry had located here some years before when Borax, a large soap company had its beginning.  Time and the elements took their toll 
+leaving a crumbling ruin where the engine overhaul building now stands.
+
+This area was mostly underwater and only attracted an occasional artist.  Cities all over America were building airports.  Alameda was no exception and established a field at this western tip of Alameda, with an Administration Building and three hangars.  The city airport was composed of the San Francisco Airdrome and Benton Field.  This put the city of Alameda on the map.
+
+To the south and west of the airfield with one narrow east-west runway, the city established a yacht harbor.  World War I destroyer hulls were used to form a breakwater.  One year later, the Pan-American Airways with their China Clipper was attracted to this new lagoon for their Trans-Pacific planes.  Airline heads and city fathers got together and completed arrangements.   (Note: they actually used the estuary which separates Oakland and Alameda, so this needs clarification)
+
+The Army Air Corps, as it was called then, leased the airport from the City of Alameda and work started on Benton Field.  Months of dredging and fill-in were necessary to complete the 100 acres to be used by the army.  Benton Field was bounded on the north by the highway (Main St.) which enters the main gate; on the west by what is First Street on the air station; on the south by Avenue "C" and on the east by the Peralta Grant line, which lies just east of the Officer''s quarters.
+
+Concrete roads, utilities and a small runway 150 feet wide by 2,000 feet long were built, located about where the Officer''s Club is today.  With the aid of the WPA the Navy came into the picture.  A swap was made between two military departments, the Alameda site being taken by the Navy.  The Army went to an area in Sunnyvale, now known as Moffett Field.
+
+Before the exchange was made between the Army and the Navy, the City of Alameda had to make an outright "sale" of the property to the Navy Department.  To legalize the transaction an uncontested vote was taken by the City and shortly thereafter a U.S. Treasury check for $1.00 on the open purchase fund was paid to the city of Alameda.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(9,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(10,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(11,N'The Naval Air Station Alameda was commissioned on November 1, 1940 after dredging 16 million cubic yards of sand from the bay to fill the area and to build the landing fields.
+
+The big day arrived.  The station was ready for occupancy.  In the terse language of military memorandum the following dispatch identified the station and directed its commission
+
+	FROM:  The secretary of the Navy
+	TO:  All ships and stations
+	SUBJECT:  Establishment of the U.S. Naval Air Station, Alameda, California
+
+	1. The air station field and facilities now under construction, northwest of the city of Alameda, between San Francisco Bay 
+	    and the Oakland channel is hereby established as the U.S. Naval Air Station Alameda, California.
+
+						Lewis Compton Acting
+
+Captain Frank R. McCrary was "aboard"; the order of the day was dress blues for all hands, and the commissioning ceremony got underway promptly at 10:30 am.   In fifteen or twenty minutes the station had been turned over to the commanding officer, who directed the executive officer to "set the watch" and NAS Alameda officially entered the large family of Naval Air Stations that guarded the shores of this country.
+
+Since that memorable day, gusty with hovering clouds, Alameda has seen many historical and memorable events take place.  Thousands of ships and planes and possibly millions of men have passed this Port of Call on their way t o the war in the Pacific.  Green, untried military men of naval aviation have departed from this air station to prove their mettle in war.  For many war-tried veterans, the Alameda Naval Air Station has been first contact with "The States" after meeting the enemy in the Pacific.
+
+It was here the famous Hornet (CV-8) loaded the bombers which first struck Japan in WWII.  Less publicized or romanticized other ships and thousands of other planes have departed from here to carry the war to the Pacific.
+
+The carpenters hammers rung out and the chink of concrete mixers were rarely silent on the station.  It grew in size and went forward: Korea, Viet Nam, Desert storm, with helicopters added to the work load.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(12,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(13,N'Marine Barracks Department 
+
+. base security, including housing; trunk searches
+. traffic tickets
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(14,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(15,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(16,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(17,N'These are the men who are specialists at fighting as well as welding, engine maintenance and carburetion.  These guys also man the back seat of fighting aircraft.  (Caption of a 1st class metal smith teaches acetylene welding)
+
+Parachute loft: Navy parachute riggers are taught how to pack chute packs
+
+Aerographer:  One of the most coveted technicians post is that of aerographer.  He must be an expert in all phases of aerology.  Expert weather men.
+
+Aviation Technician:  The aviation technician as his name implies is a highly trained specialist.  The navy goes all out to train these people.  It has spent millions of dollars on new schools, it has procured top flight equipment and it has brought seasoned experts to train.   Technicians are chosen in the early weeks of boot camp strictly on their merits.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(19,N'')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(20,N'THE WAVES -- A pictorial view of the Girls in Blue
+
+WWII was the first time when great numbers of women were recruited and trained for active service.  Women had been in service in uniform before, but only served in specific roles, such as medical or secretarial.
+
+(Women Accepted for Voluntary Emergency Service)
+
+They were the proof that it was everybody''s war "Petticoat Admirals" –WAVES were replacing male officers at desks.
+
+The WAVES were established by an act of congress on July 31, 1942; they were a definite part of the Navy, neither a corps nor an auxiliary.  It was the first officer and enlisted in any military service in the United States to be composed entirely of women.
+
+Those who remember WWI may recall the "yeomanettes" 1917 – 1918.  Nearly 12,000 women were enrolled as female yeomen in the US Naval Reserve Force, for four years or the duration.
+
+In March of 1917, while the US was moving toward its final decision to enter the world war, the Navy realized that the need for clerical assistance was far greater than expected.  The shore station activities increased.  To solve the problem, Secretary of the Navy Josephus Daniels turned to the Civil Service Commission.  They didn''t agree, so the Navy Secretary asked "Is there any law that says a yeoman MUST be a man?"  The answer was "no."  "Then enroll women."  So on August 29th, 1916 the act was passed.  Mildred McAfee, president of Wellesley College was named director of the Women''s Reserve.  Duties were confined to the continental United States.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(21,N'This book is dedicated to the many retirees, both military and civilian, who served faithfully in support of the United States Navy aboard the Naval Air Station Alameda.  Their devotion to duty and expertise for over five decades reaches far beyond the Naval Air Station gates, extending to fleet units in the vast Pacific.')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(22,N'The navy needed a place to train air crewman and repair aircraft in WWII and Alameda was the perfect place.  Through the years that NAS Alameda was active it operated facilities, provided services and material support to activities and units of the operating forces of the Navy and other activities as designated by the Chief of Naval Operations.
+
+Anti-submarine warfare (ASW) aircraft was a major part of the work at Alameda.  The Navy operated both active and reserve squadrons at the base.  Component programs such as manufacturing, calibration and standards, assemblies for aircraft, avionics and engine accessories,  Power Plants and missiles.
+
+The balance of workload was a mixture of customer service, aircraft modification, shipboard work, mobile maintenance facility engineering supports.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(23,N'The Public Affairs officer is charged with the direction of a program of internal and external information, community relations, media relations and public relations concerning official activities and personnel of the Naval Air Station.  Such a program must be designed to gain the respect and cooperation of the general public, station personnel, the community, and industry for the Navy and the field of aviation.')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(24,N'US Naval Aviation was at war—it was WWII
+
+The airplane and escort carriers have had a tremendous part in defeating the U-boat.  Air patrol against submarines involves precision flying and navigation and an expert crew.  Day after day, in all sorts of weather, the vigil must be kept.
+
+Navy search planes flew regular patrols from the south Pacific bases that were repaired at NAS Alameda.
+
+The famous Black Cats were heavily armed Catalina''s (PBY''s) painted black and were new to night warfare.  They teamed up with PT boats to drive enemy ships from the ocean.
+
+What the Black Cats did to win the war cannot be appreciated until you learn about the strategy used in the Solomon Island''s campaign.  The average American picks up his morning newspaper and reads that a Japanese barge was sunk offshore at a far away atoll in the Pacific, and it meant little to him.   He turned the page to read more exciting news.  In reality, the barge that didn''t get through with the groceries meant imprisonment for the Japanese on the island it was headed for.  The enemy was starved out and squeezed out of the whole long chain of the Solomon Islands.
+
+The Black Cats sunk many barges and played an important role in WWII.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(25,N'Marilyn York attended Hunter College in New York City as a member of the first class of WAVES in World War II.  She was trained at Naval Air Technical Training Center at Norman Oklahoma before being assigned to Alameda Naval Air Station where she was the driver for the first Commanding Officer, Captain Frank C. McCrary.  After naval service, Marilyn became a civil service employee as Aircraft Engine Mechanic Journeyman.  Collateral duties included serving as driver for the medical department nurse, raising over one million and a half dollars in war bond sales and coordination blood drives to help wounded veterans at Oak Knoll Hospital.  She retired after a career of 32 years and 10 months.  Since her retirement Marilyn has served as co-founder of the Alameda Naval Air Museum.')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(26,N'We were young; we danced, romanced and marched off to war.
+
+It was the big bad era –Glen Miller, Tommy Dorsey,
+
+Factories worked 24 hours trying to catch up with demand.
+
+Solid work ethics established the attitude of a nation toward the war effort
+
+We lost buddies, we lost youth and many gold stars appeared in the windows of America
+
+We built massive air power and created a bond of comradeship 
+
+We were not so cynical not so divided
+
+Our words were more sincere and had more meaning and feeling
+
+We had vision, we did not look away, we had strong patriotism and loyalty; friendships were based on trust
+
+When you look at memorabilia from that era your eyes fill with tears
+
+Vera Lynn sang "We will meet again some sunny day," a song which when heard today still brings tears to the eye of the G. I.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(27,N'WWII was the first time the US had fought on two fronts at the same time.  Millions of men, women and children died in an attempt to destroy the axis powers of Germany and Japan.
+
+As President, Roosevelt began his third term and the crisis in China was undermining peaceful co-existence.
+
+Japanese officials expected a weak response from the United States if they took action to attack.  President Roosevelt spoke to an audience in Chicago on 5 October, 1937 asking for a more affirmative foreign policy.  Stating that peace loving nations would have to stand together if law and order were to prevail.
+
+Japanese military and civilian industries needed steel and petroleum to expand their economy; when the United States cut back on exporting them, the government of Japan needed to find an immediate solution. 
+
+FDR had been elected to a third term and negotiations were underway to find an agreeable settlement when December 7, 1941 Pearl Harbor came along, WWII started.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(28,N'The Martin MARS JRM-1; 70 tons
+The Mariner (Martin PBM-3)
+
+The Martin MARS is the world''s largest flying boat.  They flew the Pacific to deliver men and supplies to far flung naval bases.
+
+In September 1943 our first three carriers, the USS Essex, the USS Yorktown, and the USS Independence were boarded (by MARS or what?) in a test raid on the island of Marcus; other raids followed.  In November 1943, Admiral Nimitz and Admiral Spruance threw their aerial forces against the Gilbert Island chain.  Carrier task forces raided one Japanese island after another.   The Islands of Truck and Saipan, two enemy strong points, felt their sting.
+
+(More to come regarding the Marine and the Martin PBM-3)
+
+
+More on PBY Catalina''s, J2F''s
+
+The PBY Catalina''s have done just about everything in WWII.  They patrolled the Aleutians; glide (dive?) bombed (enemy?) ships and aircraft positions, lugged supplies in and out of hot areas, and even a bit of dog-fighting.  Having established an all-time record for aerial versatility, they were the logical choice to take over the work of picking our downed pilots out of the sea and other troubled situations.  The PBY Catalina''s were serviced by special tenders for seaplanes that brought them needed supplies.
+
+In the early days of Guadalcanal, the J2F seaplane, or Ducks, acted as mercy planes in rescue hops.  However, the J2F is a two-seater and is not big enough for the rescue operations of a Flying Fortress'' 9-member crew.  So the Catalina''s were assigned to rescue downed pilots in the Espiritu Santo and Tulagi Islands.  
+
+The rescue operations were the most cheerful development in the Pacific war in WWII. 
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(29,N'Mission of Naval Air Station Alameda
+
+The Naval Air Station Alameda provided a maximum means of support to the Pacific Fleet, which history has repeatedly proven was a successful major deterrent to aggression, and a prime essential of our national defense.
+
+The investment in skilled personnel, efficient equipment and facilities paid off by providing the Navy with a tool which could react to any emergency, perform on-site repairs and serve as a storehouse of aviation knowledge and research that could adapt to changing times.
+
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(30,N'In December 1917, a young visionary named John J. Mulvaney decided the island of Alameda''s west end would be an ideal place for a Navy base.  Through Mr. Mulvaney''s efforts a special Navy Yard committee advocated purchase of the land.  Congress shelved the recommendation, but through the years the Navy continued to lobby for the site.  Several congressional committees visited Alameda to view the proposed location.
+
+In June 1936 Public Resolution 19 was presented to the 76th Congress authorizing President Franklin D. Roosevelt to accept the land from the city of Alameda for the sum of $1.00.
+
+In 1938, Alamedans, like thousands of other Americans were dimly concerned with the growing unrest in Central Europe.  They had not yet accustomed themselves to the thinking that the actions of other countries could hold grim portends for the future of the United States.
+
+It was not with an eye for wartime preparedness, then, that the first construction was started on the Naval Air Station.  World events moved rapidly.  Buildings and hangars of the new Naval Air Station grew steadily, until on November 1, 1940 the Naval Air Station was commissioned and turned over to a staff of 200 civilian employees and a small complement of naval personnel.
+
+At the moment of the attack on Pearl Harbor, December 7, 1941 the stations building were gaunt steel frameworks and the 5000 foot runways only partially completed.  In spite of this, with the rest of the nation air station employees went to work in earnest to support our fighting forces.  The result was fast and efficient production.  Alameda became known as the "Gateway to the Pacific" in World War II.
+
+Facilities were built, personnel were hired and trained, and military men and supplies were funneled out to the far reaches of the Pacific in dizzying numbers.  
+
+The sleepy township of Alameda changed from a community of 30,000 to a bustling 85,000, and a large percentage of Alameda residents were now employed at the air station. 
+
+It was from NAS Alameda that the famed General Jimmy Doolittle and his B-25 Mitchell bombers were loaded aboard the aircraft carrier USS Hornet CV-8 prior to making the first attack of the war on the Japanese homeland.
+
+Then suddenly the war was over.  After the strain of non-stop, three-shift productivity, emergency "make-do" methods and carpools, peace was an unknown quantity.   
+
+The US Navy showed unmistakable signs that the men and women behind the planes and carriers and bases were dedicated to getting the job done.  The workers in the aircraft industry, the shipyards, the engineers and the management teams tackled problems of which they had no conception a few months before WWII.
+
+Personnel by the thousands left the station payroll and returned to their former occupations.  The base employees who stayed had to learn to adjust to new conditions. The Naval Air Station continued to serve the Fleet activities.  This included overhaul and repair of many different aircraft and types of equipment and the berthing and fueling of large ships.
+	
+In 1948 (?) the air station played a major part in providing aircraft and equipment for the Korean War and provided training facilities for military personnel.   Since Korea, the station emphasized repair of jet aircraft, built a missile rework facility, a new Avionics building, data processing facilities, a new hush house for suppression of aircraft engine noise, a new paint facility and finally a new Materials Laboratory.
+
+With the advent of the Viet Nam crisis the station was once again called upon to provide massive support for the Pacific fleet.  The A-1E was reconditioned to meet difficult conditions in jungle warfare.
+
+In the early sixties there were threats from unfriendly submarines.  Half of the work done at the air station was for ASW (Anti-Submarine Warfare).  It was necessary to keep more of our resources in ready condition; such as aircraft engines and related systems.
+
+Base personnel reworked A3 Sky Warriors, A-6 Intruders, S-3 Vikings and P-3 Orion aircraft.  Power plants included the J-52, T-56 and TF-34.
+
+Today the station covers 2,720 acres, including 1,108 acres under water and covers one-third of the island of Alameda.  The building values are in excess of a quarter of a billion dollars.  The runways accommodated the latest aircraft and were now 8,000 feet long.
+
+In 1963 the Navy spent more than $2 billion in the 12th Naval District.  The civilian payroll to shore based persons was $85 million.  The Navy force was mobile both afloat and in the air.  It served 48 home-ported ships in the Bay Area and had 21,700 sailors and retired personnel residing in the nearby communities.  Besides sailors and marines, there were 10 Air Groups flying from six bases and aboard four aircraft carriers.  $73 million was paid to military dependents.  Some $1.6 billion was spent locally on supplies, equipment and hardware.
+
+The Navy did indeed play a vital role, in the life of this robust area.  Home ported ships at Alameda included the carriers USS Midway, USS Hancock, USS Coral Sea, USS Ranger, USS Oriskany, USS Enterprise and the USS Lincoln.  The base had three seaplane ramps, 2,027,000 square feet of shop area, 2,858,000 square feet of covered area, 300 buildings and thirty miles of roads.
+
+For the Korean, Viet Nam and Desert Storm crises, the Navy proved massive support for the Pacific Fleet.  The Station was placed on the base closure list in the second round of three congressional closures in 1995, and closed in April of 1997.  The last Commanding Officer was Jim Dodge, who conducted the closure ceremony.
+	
+New technology by satellite now patrols our coast.  Fifty per cent of Alameda workload was anti-submarine patrol.  New technology for patrol planes required fewer of them.  (More to say about the reasons why the base was closed)
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(31,N'Naval Aviation Depot Alameda, California
+
+A professional organization that met the needs and technology of maintaining the fleet in a state of readiness.
+
+The state of vital sensitivity for fleet aircraft and ships had increased one thousand fold during the decades since WWII, with increased work load for engineers and technicians until base closure.  It was the largest industry in the bay area.  In the last few years the workload moved in the direction of anti-submarine warfare (ASW); keeping fleet ASW capabilities in a high state of readiness.
+
+The P-3 Orion is the world''s most successful anti-submarine warfare aircraft.  The Navy operates both active and reserve squadrons.  NARF Alameda was involved in the refurbishing, repairing and replacing of hundreds of thousands of parts yearly for aircraft, weapons systems and equipment.
+')
+INSERT INTO [ImageArchive].[dbo].[SectionText]([SectionId],[SectionText]) VALUES(999,N'')
+GO
+print 'Inserted 31 records'

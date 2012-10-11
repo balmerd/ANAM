@@ -1,0 +1,21 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetAllSectionImageDetails]    Script Date: 02/15/2009 17:50:42 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[GetAllSectionImageDetails]
+AS
+SELECT s.Id, s.Name, st.SectionText, '' AS Ref, '' AS Title, '' AS Caption, '' AS OriginalCaption
+FROM SectionText st LEFT OUTER JOIN Sections s ON s.Id = st.SectionId 
+UNION ALL
+SELECT i.SectionId AS Id, 'ZZZ' as Name, 'ZZZ' as SectionText, i.Ref, i.Title, i.Caption, i.OriginalCaption
+FROM Images i 
+ORDER BY Id, Name, Ref
+
+GO
+

@@ -1,0 +1,38 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  Table [dbo].[Images]    Script Date: 02/15/2009 17:49:02 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Images](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Ref] [varchar](10) NULL,
+	[Title] [varchar](255) NULL,
+	[Year] [varchar](50) NULL,
+	[Quality] [varchar](10) NULL,
+	[MediaFormat] [varchar](10) NULL,
+	[Caption] [text] NULL,
+	[OriginalCaption] [text] NULL,
+	[Keywords] [varchar](255) NULL,
+	[Accession] [varchar](255) NULL,
+	[Credit] [varchar](255) NULL,
+	[Comments] [text] NULL,
+	[SectionId] [int] NULL,
+ CONSTRAINT [PK_Images] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

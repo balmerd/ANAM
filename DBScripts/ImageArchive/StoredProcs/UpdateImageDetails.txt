@@ -1,0 +1,27 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[UpdateImageDetails]    Script Date: 02/15/2009 17:53:29 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[UpdateImageDetails] (
+	@Ref varchar(10),
+	@Title varchar(255),
+	@Caption text,
+	@SectionId int        
+)
+AS
+UPDATE [Images] SET 
+	[Title] = @Title, 
+	[Caption] = @Caption,
+	[SectionId] = @SectionId
+WHERE [Ref] = @Ref
+
+
+GO
+

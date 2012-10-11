@@ -1,0 +1,36 @@
+<%@ Page Language="C#" MasterPageFile="~/Masterpages/Site.master" Inherits="ANAM.Web.CodeBehindBase" Title="Alameda Naval Air Museum - Board of Directors Election" %>
+<%@ OutputCache Duration="60" Location="Client" VaryByParam="none" %>
+
+<script runat="server">
+</script>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="cpHead" Runat="Server">
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="cpMain" Runat="Server">
+	<h1>Board of Directors Election</h1>
+	<p>On Sunday, February 8, 2009, the Alameda Naval Air Museum held its 2009 Annual Membership Meeting. Museum members in attendance heard the Treasurer's 
+	financial report and updates on various museum projects. An election was then held for seats on the museum board of directors. Ten candidates ran for nine seats. 
+	After ballots were counted, the seated board members were re-elected to serve additional terms of office (staggered based on seniority).</p>
+	<b>3-Year Term</b> (2012)<br />
+	<ul>
+		<li>Barbara Baack - Officer: Vice President; Co-founder</li>
+		<li>George "Frank" Musso - Event Coordinator</li>
+		<li>Marilyn York - Officer: President; Co-founder</li>
+	</ul>
+	<b>2-Year Term</b> (2011)<br />
+	<ul>
+		<li>Larry Pirack - Curator</li>
+		<li>Billie Sites - Officer: Treasurer</li>
+		<li>Siegfried "Sieg" Wroebel - Acquisitions</li>
+	</ul>
+	<b>1-Year Term</b><br />
+	<ul>
+		<li>Chief Bronson Parry - Community Outreach</li>
+		<li>Kindlen "Kin" Robles - Public Relations</li>
+		<li>Carol J. Trotter - Officer: Secretary; Membership Chair (acting)</li>
+	</ul>
+</asp:Content>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="cpJavascript" Runat="Server">
+</asp:Content>

@@ -1,0 +1,21 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  Table [dbo].[SectionText]    Script Date: 02/15/2009 17:50:10 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[SectionText](
+	[SectionId] [int] NOT NULL,
+	[SectionText] [ntext] NULL,
+ CONSTRAINT [SectionText_PrimaryKey] PRIMARY KEY CLUSTERED 
+(
+	[SectionId] ASC
+)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+

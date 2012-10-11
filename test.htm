@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset=utf-8" />
+	<title>Media Custodian Management</title>
+    <style type="text/css">
+        table, td 
+        {
+            border: 1px solid #000;
+            border-collapse: collapse;
+        }
+        td 
+        {
+            width: 5em;
+        }
+    </style>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="Scripts/jquery.fn.dump.js"></script>
+	<!--script type="text/javascript" src="Scripts/jquery.jeditable.js"></script-->
+</head>
+<body>
+    <form action="test.htm">
+        <table xxx-style="width:100%;">
+            <tr>
+                <td>one</td>
+                <td>two</td>
+                <td>three</td>
+                <td>four</td>
+                <td>five</td>
+                <td><input type="text" id="wtf" value="wtf" style="margin:0; padding:0; width:5em; border:1px solid #000;" /></td>
+            </tr>
+        </table>
+		<input type="button" id="btnTest" value="click me" />
+		<input type="text" name="custodian1" value="tbd1" />
+		<input type="text" name="custodian2" value="tbd2" />
+    </form>
+
+	<script type="text/javascript">
+	    $(document).ready(function() {
+
+	        $("#btnTest").click(function () {
+	            //$("input[type='text',name='custodian1']").text("testing...");
+	            //$("input[name='custodian1']").text("testing...");
+	            var result = { "Method": "get input by name", "Values": [] };
+	            $("input").each(function (index) {
+	                result.Values.push($(this).val());
+	            });
+	            $.dump(result);
+	        });
+
+	        $("td").click(function() {
+	            $(this).html("<input type='text' id='txt-td' value='wow' style='margin:0; padding:0; width:5em; border:1px solid #000;' />");
+	        });
+
+//            $('.editable').editable(
+//                function(value, settings) {
+//                    var result = {};
+//                    result.context = this;
+//                    result.val = value;
+//                    result.settings = settings;
+//                    return(value);
+//                }, { 
+//                    type : 'textarea',
+//                    submit : 'OK',
+//                }
+//            );
+	    });
+	</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿USE [ImageArchive]
+GO
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'IMG-0114',N'Jet Fan Repair',N'',N'',N'print',N'Jet Fan Repair',N'',N'',N'',N'',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0101',N'USS Hancock (CV-19)',N'1974',N'',N'',N'USS Hancock (CV-19)',N'',N'',N'',N'U.S. Naval Air Station Alameda - Armed Forces Directory Service Inc.',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0131',N'',N'1968',N'',N'print',N'',N'Numerical Controlled Center - Mechanic is changing program tape.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0132',N'',N'1968',N'',N'print',N'',N'Pneumatics Test Cell.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0133',N'',N'1968',N'',N'print',N'',N'Driverless Tractor Train - Pallets are unloaded automatically to conveyer infeed system and are stored in automated storage system at rear.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0134',N'',N'1968',N'',N'print',N'',N'Super Clean Room for precision instruments.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0135',N'',N'1968',N'',N'print',N'',N'Crowded conditions in Electronics Branch.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0136',N'',N'1968',N'',N'print',N'',N'Overcrowded Missile Shop Area - lacking environmental controls.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0137',N'',N'1968',N'',N'print',N'',N'Overcrowded Jet Engine Rework in wooden building 1/4 mile from Main Engine Building.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+
+INSERT INTO [ImageArchive].[dbo].[Images] ([Ref],[Title],[Year],[Quality],[MediaFormat],[Caption],[OriginalCaption],[Keywords],[Accession],[Credit],[Comments],[SectionId]) 
+VALUES (N'PUB-0138',N'',N'1968',N'',N'print',N'',N'Typical Bridge Crane movement of an A-4 Aircraft during Rework.',N'',N'',N'Long Range Development Plan - Naval Air Rework Facility - Naval Air Station - Alameda California',N'',10)
+GO
+

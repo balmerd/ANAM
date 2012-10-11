@@ -1,0 +1,96 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Search.master.cs" Inherits="ANAM.Web.SearchMaster" EnableViewState="false" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Alameda Naval Air Museum</title>
+	<meta name="description" content="Our museum is home to a unique collection of artifacts and exhibits emphasizing the role of the Alameda Naval Air Station in the defense of our nation and as an integral part of the local community of Alameda, California for over 50 years." />
+	<meta name="keywords" content="NAS, Alameda, California, NAS Alameda, Naval Air Station, Naval Air Museum, U.S. Navy, Aviation, Museum, History" />
+	<!-- Combo-handled YUI CSS files: -->
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.6.0/build/fonts/fonts-min.css&amp;2.6.0/build/reset/reset-min.css&amp;2.6.0/build/grids/grids-min.css&amp;2.6.0/build/base/base-min.css&amp;2.6.0/build/button/assets/skins/sam/button.css&amp;2.6.0/build/carousel/assets/skins/sam/carousel.css&amp;2.6.0/build/tabview/assets/skins/sam/tabview.css" />
+	<link rel="stylesheet" type="text/css" href="/styles/anam-min.css" />
+	<!--[if IE]>
+	<style type="text/css">
+		.carousel-caption {
+			font-weight: normal;
+		}
+	</style>
+	<![endif]-->	
+	<!--[if IE 6]>
+	<style type="text/css">
+		#sidenav-content {
+			width: 11.5em;
+		}
+	</style>
+	<![endif]-->	
+	<asp:contentplaceholder id="cpHead" runat="server">
+	</asp:contentplaceholder>
+</head>
+<body class=" yui-skin-sam">
+<!--
+    <form id="form1" runat="server">
+   -->
+		<div id="doc4" class="yui-t1">
+			<div id="hd" style="background:#008; height:60px;">
+				<img src="/images/banner-avenger.jpg" width="974" height="60" alt="Alameda Naval Air Museum" />
+			</div>
+			<div id="bd">
+				<div id="yui-main">
+					<div id="main-content" class="yui-b" style="background:#FFF url(/images/tl-corner.gif) no-repeat top left;">
+						<asp:contentplaceholder id="cpMain" runat="server">
+						</asp:contentplaceholder>
+ 					</div>
+				</div>
+				<div id="sidenav-content" class="yui-b">
+					<ul id="navlist">
+						<li><a href="/Default.aspx">Home</a></li>
+						<li><a href="/Overview.aspx">Museum Overview</a></li>
+						<li><a href="/Skipper.aspx">Skipper's Chair</a></li>
+						<li><a href="/Board.aspx">Board of Directors</a></li>
+						<li><a href="/History/NAS.aspx">NAS History</a></li>
+						<li><a href="/History/NADEP.aspx">NADEP History</a></li>
+						<li class="space-above"><a href="/VisitorInfo.aspx">Visitor Information</a></li>
+						<li class="space-above"><a href="/Exhibits.aspx">Exhibits</a></li>
+						<li><a href="/Gallery.aspx">Photo Gallery</a></li>
+						<li><a href="/InMemory.aspx">In Memory</a></li>
+						<li><a href="/Units.aspx">NAS Alameda Units</a></li>
+						<li><a href="/Stories.aspx">Service Stories</a></li>
+						<li><a href="/Links.aspx">Links</a></li>
+						<li class="space-above"><a href="/Kids.aspx">Kids Corner</a></li>
+						<li><a href="/Partners.aspx">Partners Program</a></li>
+						<li class="space-above"><a href="/Search.aspx">Search</a></li>
+						<li><a href="/Contact.aspx">Contact Us</a></li>
+						<li><a href="/Volunteer.aspx">Volunteer</a></li>
+						<li><a href="/GetInvolved.aspx">How to Get Involved</a></li>
+						<li><a href="/VHP.aspx">Veterans History Project</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="ft">
+				<div id="copyright">Copyright &copy; <asp:Literal ID="litYear" runat="server" /> Alameda Naval Air Museum</div>
+				<div id="webmail"><%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "email our webmaster")%></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+<!--
+    </form>
+-->
+	<!-- Combo-handled YUI JS files: -->
+	<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/yahoo/yahoo-min.js&amp;2.6.0/build/dom/dom-min.js&amp;2.6.0/build/event/event-min.js&amp;2.6.0/build/animation/animation-min.js&amp;2.6.0/build/element/element-beta-min.js&amp;2.6.0/build/button/button-min.js&amp;2.6.0/build/carousel/carousel-beta-min.js&amp;2.6.0/build/tabview/tabview-min.js"></script>
+	<script type="text/javascript" src="/scripts/anam-min.js"></script>
+	<asp:contentplaceholder id="cpJavascript" runat="server">
+	</asp:contentplaceholder>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-8429302-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+</body>
+</html>

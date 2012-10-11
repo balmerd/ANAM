@@ -1,0 +1,22 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetSections]    Script Date: 02/15/2009 17:52:26 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetSections]
+AS
+SET NOCOUNT ON
+
+SELECT [Id], [Name] FROM [Sections] ORDER BY [Name]
+
+
+
+
+GO
+

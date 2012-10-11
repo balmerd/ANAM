@@ -1,0 +1,32 @@
+﻿USE [dbalmer]
+GO
+
+/****** Object:  Table [dbo].[ANAM_Memorial]    Script Date: 02/15/2009 17:37:03 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[ANAM_Memorial](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Rank] [varchar](50) NOT NULL,
+	[FirstName] [varchar](50) NOT NULL,
+	[LastName] [varchar](50) NOT NULL,
+	[Status] [varchar](50) NOT NULL,
+	[Link] [varchar](150) NULL,
+	[Details] [text] NULL,
+ CONSTRAINT [ANAM_Memorial_PrimaryKey] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

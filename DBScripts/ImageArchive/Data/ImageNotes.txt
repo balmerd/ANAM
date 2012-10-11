@@ -1,0 +1,10 @@
+﻿USE [ImageArchive]
+GO
+
+SET IDENTITY_INSERT [ImageArchive].[dbo].[ImageNotes] ON
+GO
+
+
+SET IDENTITY_INSERT [ImageArchive].[dbo].[ImageNotes] OFF
+GO
+

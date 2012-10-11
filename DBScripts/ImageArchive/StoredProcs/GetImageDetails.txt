@@ -1,0 +1,23 @@
+﻿USE [ImageArchive]
+GO
+
+/****** Object:  StoredProcedure [dbo].[GetImageDetails]    Script Date: 02/15/2009 17:51:38 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[GetImageDetails]
+(
+	@Ref varchar(10)
+)
+AS
+SET NOCOUNT ON
+
+SELECT [Id], [Ref], [Title], [Year], [Caption], [OriginalCaption], [SectionId] FROM [Images] WHERE [Ref] = @Ref
+
+
+GO
+
