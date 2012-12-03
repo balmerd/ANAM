@@ -27,10 +27,22 @@
 			<div id="gallery">
 				<div class="polaroid">
 					<div class="bd">
+						<img width="370" height="300" alt="" src="images/InMemory/marilyn-york.jpg"/>
+						<div style="width: 370px;" class="caption">Marilyn York 1922 - 2012</div>
+					</div>
+				</div>
+				<!--
+				Christmas party on Dec 2 at 1pm - pot luck
+				ANAM Annual meeting Feb 10th at 1pm
+				-->
+				<div class="clear" style="height: 0.5em;">&nbsp;</div>
+				<div class="polaroid">
+					<div class="bd">
 						<a href="Exhibits.aspx"><img width="370" height="196" alt="" src="images/gallery/rotation/Martin130-sm.jpg"/></a>
 						<div style="width: 370px;" class="caption">Martin 130 flying model, donated to the museum by Mr. Randall Patrick.</div>
 					</div>
 				</div>
+				<!--
 				<div class="clear" style="height: 0.5em;">&nbsp;</div>
 				<div class="polaroid">
 					<div class="bd">
@@ -38,6 +50,7 @@
 						<div style="width: 370px;" class="caption">HM-15 Sea Dragon conducts mine countermeasures operations,<br/>in San Francisco Bay -- 1 September 1990</div>
 					</div>
 				</div>
+				-->
 				<div class="clear" style="height: 0.5em;">&nbsp;</div>
 				<div class="polaroid">
 					<div class="bd">
@@ -64,6 +77,19 @@
 			</div>
 		</div>
 		<div class="yui-u">
+			<div class="module">
+				<div class="hd" style="color: #FFD700;">In Memory of Marilyn York</div>
+				<div class="bd">
+				<p>Marilyn York, the President and Co-founder of the Alameda Naval Air Museum, died at the age of 90 in her San Lorenzo home on October 4th 2012.</p>
+				<p>She was a <a href="http://en.wikipedia.org/wiki/WAVES" target="_blank">Navy W.A.V.E.</a> during WWII, one of the first to become a W.A.V.E. She was stationed at the Alameda Naval Air Station.</p>
+				<p>Marilyn became a "Rosie the Riveter" after the war, and spent 33 years as a Journeyman Aircraft Engine Mechanic at the Rework Facility aboard the Navy base.</p>
+				<p>During WWII, Marilyn sold over a million dollars worth of War Bonds to aircraft and shipyard workers.</p>
+				<p>After her retirement, she worked hard to co-found Alameda Naval Air Museum which is dedicated to the history of the Naval Air Station Alameda, Navy and U.S.M.C.</p>
+				<p>A memorial service will be held on <b>Saturday November 3rd at 1400 (2pm)</b> at Alameda Naval Air Museum in Alameda.</p>
+				Contributions may be made in Memory of Marilyn York to the Alameda Naval Air Museum 2151 Ferry Point Rd. Alameda CA 94501 510-522-4262
+				</div>
+			</div>
+			<div style="height: 1em;">&nbsp;</div>
 			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Museum Open House</div>
@@ -162,7 +188,7 @@
 						<br /><br />
 						To commemorate this anniversary, the Alameda Naval Museum displayed items of history relating to that event including Photos, News
 						Clippings, Models, Vintage Vehicles, and the Living History Group. Also the film <i>"30 Seconds Over Tokyo"</i> was shown in our Ready Room.</p>
-
+					<!--
 					<p><b>Sunday, November 21, 2010</b> China Clipper 75th Anniversary Commemoration
 					
 					<p>The Alameda Naval Air Museum hosted events to commemorate the 75th Anniversary of the China Clipper's first commercial
@@ -172,16 +198,18 @@
 					live simulated radio broadcast with re-enactors portraying actual participants from the historic flight in 1935, and much more.</p>
 
 					<p><a href="ChinaClipper.aspx">Click here for more details</a>, and many thanks to our <a href="C75Partners.aspx">China Clipper 75 Event Partners</a>.</p>
-					
+					-->
+
 					<!--p><b>Sunday, August 22, 2010</b> The Mercury News has a very nice article on 
 						<a href="http://www.mercurynews.com/bay-area-living/ci_15797787?nclick_check=1" target="_blank">Bill Larkins</a>, 
 						the author of the recently published "Alameda Naval Air Station".</p-->
-
+					<!--
 					<p><b>Saturday, May 8, 2010</b> A Model Swap Meet was held in the Crows Nest at the Alameda Naval Air Museum featuring RC (radio control),
 						control line, and free flight models and equipment.</p>
 
 					<p class="last"><b>February 14, 2010</b> The ribbon cutting ceremony of the Baack-Davis-Hague Research Library took place at the Alameda Naval
 						Air Museum on Sunday, February 14. The event was as part of the museum's Annual Membership Meeting.</p>
+					-->
 				</div>
 			</div>
 		</div>
