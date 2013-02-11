@@ -25,16 +25,7 @@
 	<div class="yui-g">
 		<div class="yui-u first">
 			<div id="gallery">
-				<div class="polaroid">
-					<div class="bd">
-						<img width="370" height="300" alt="" src="images/InMemory/marilyn-york.jpg"/>
-						<div style="width: 370px;" class="caption">Marilyn York 1922 - 2012</div>
-					</div>
-				</div>
 				<!--
-				Christmas party on Dec 2 at 1pm - pot luck
-				ANAM Annual meeting Feb 10th at 1pm
-				-->
 				<div class="clear" style="height: 0.5em;">&nbsp;</div>
 				<div class="polaroid">
 					<div class="bd">
@@ -42,16 +33,8 @@
 						<div style="width: 370px;" class="caption">Martin 130 flying model, donated to the museum by Mr. Randall Patrick.</div>
 					</div>
 				</div>
-				<!--
 				<div class="clear" style="height: 0.5em;">&nbsp;</div>
-				<div class="polaroid">
-					<div class="bd">
-						<a href="Gallery.aspx"><img width="370" height="247" alt="" src="images/gallery/rotation/DN-ST-91-00231-sm.jpg"/></a>
-						<div style="width: 370px;" class="caption">HM-15 Sea Dragon conducts mine countermeasures operations,<br/>in San Francisco Bay -- 1 September 1990</div>
-					</div>
-				</div>
 				-->
-				<div class="clear" style="height: 0.5em;">&nbsp;</div>
 				<div class="polaroid">
 					<div class="bd">
 						<a href="Gallery.aspx"><img width="370" height="249" alt="" src="images/gallery/rotation/a4c-sf-skyline-sm.jpg"/></a>
@@ -61,36 +44,29 @@
 				<div class="clear" style="height: 0.5em;">&nbsp;</div>
 				<div class="polaroid">
 					<div class="bd">
+						<a href="Gallery.aspx"><img width="370" height="247" alt="" src="images/gallery/rotation/DN-ST-91-00231-sm.jpg"/></a>
+						<div style="width: 370px;" class="caption">HM-15 Sea Dragon conducts mine countermeasures operations,<br/>in San Francisco Bay -- 1 September 1990</div>
+					</div>
+				</div>
+				<div class="clear" style="height: 0.5em;">&nbsp;</div>
+				<div class="polaroid">
+					<div class="bd">
 						<a href="Gallery.aspx"><img width="370" height="301" alt="" src="images/gallery/rotation/a4-line-sm.jpg"/></a>
 						<div style="width: 370px;" class="caption">A-4 Skyhawk line at Naval Aviation Depot (Rework Facility) Alameda, CA.</div>
 					</div>
 				</div>
-				<!--
-				<div class="clear" style="height: 0.5em;">&nbsp;</div>
-				<div class="polaroid">
-					<div class="bd">
-						<a href="Gallery.aspx"><img width="370" height="246" alt="" src="images/gallery/rotation/usn-msst-sm.jpg"/></a>
-						<div style="width: 370px;" class="caption">Boatcrew of Coast Guard MSST (Maritime Safety and Security Team) San Francisco, based in Alameda, on Coast Guard Island.  This boat was a static display at the Museum open house on Saturday, November 12th.</div>
-					</div>
-				</div>
-				-->
 			</div>
 		</div>
 		<div class="yui-u">
+			<!--
 			<div class="module">
-				<div class="hd" style="color: #FFD700;">In Memory of Marilyn York</div>
+				<div class="hd" style="color: #FFD700;">Annual General Membership Meeting</div>
 				<div class="bd">
-				<p>Marilyn York, the President and Co-founder of the Alameda Naval Air Museum, died at the age of 90 in her San Lorenzo home on October 4th 2012.</p>
-				<p>She was a <a href="http://en.wikipedia.org/wiki/WAVES" target="_blank">Navy W.A.V.E.</a> during WWII, one of the first to become a W.A.V.E. She was stationed at the Alameda Naval Air Station.</p>
-				<p>Marilyn became a "Rosie the Riveter" after the war, and spent 33 years as a Journeyman Aircraft Engine Mechanic at the Rework Facility aboard the Navy base.</p>
-				<p>During WWII, Marilyn sold over a million dollars worth of War Bonds to aircraft and shipyard workers.</p>
-				<p>After her retirement, she worked hard to co-found Alameda Naval Air Museum which is dedicated to the history of the Naval Air Station Alameda, Navy and U.S.M.C.</p>
-				<p>A memorial service will be held on <b>Saturday November 3rd at 1400 (2pm)</b> at Alameda Naval Air Museum in Alameda.</p>
-				Contributions may be made in Memory of Marilyn York to the Alameda Naval Air Museum 2151 Ferry Point Rd. Alameda CA 94501 510-522-4262
+					Friends and Guests of the museum are invited to attend the 2013 Annual General Membership meeting to be held at 1:00 PM on Sunday February 10, 2013.<br /><br />
+					As an important part of the Museum’s future, you will have the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point. It’s also an opportunity to provide direct feedback to the Board.
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
-			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Museum Open House</div>
 				<div class="bd">
@@ -114,13 +90,6 @@
 			-->
 			<!--
 			<div class="module">
-				<div class="hd" style="color: #FFD700;">Annual General Membership Meeting</div>
-				<div class="bd">
-					Friends and Guests of the museum are invited to attend the 2012 Annual General Membership meeting to be held at 2:00 PM on Sunday February 12, 2012.<br /><br />
-					As an important part of the Museum’s future, you will have the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point. It’s also an opportunity to provide direct feedback to the Board.
-				</div>
-			</div>
-			<div class="module">
 				<div class="hd">Upcoming Events</div>
 				<div class="bd">
 					<b>Sunday, September 16th, 2012</b>&nbsp;
@@ -129,6 +98,16 @@
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
 			-->
+			<div class="module">
+				<div class="hd clickable" onclick="window.location.href='GetInvolved.aspx'">Annual Museum Membership Drive</div>
+				<div class="bd">
+					If you enjoy our website or visits to the Alameda Naval Air Museum, perhaps you'd like to help by becoming a museum member. 
+					Our Annual Membership Drive is now underway with a 2013 goal of 175 NEW MEMBERS. For just $35.00 per year you can help us continue to 
+					preserve the rich aviation and naval history of NAS Alameda and Alameda Point. For more information, visit 
+					<a href="GetInvolved.aspx">How to Get Involved</a>. Don't wait, please join us today!
+				</div>
+			</div>
+			<div style="height: 1em;">&nbsp;</div>
 			<div class="module">
 				<div class="hd">NAS Alameda Book</div>
 				<div class="bd">
@@ -157,16 +136,6 @@
 			-->
 			<div style="height: 1em;">&nbsp;</div>
 			<div class="module">
-				<div class="hd clickable" onclick="window.location.href='GetInvolved.aspx'">Annual Museum Membership Drive</div>
-				<div class="bd">
-					If you enjoy our website or visits to the Alameda Naval Air Museum, perhaps you'd like to help by becoming a museum member. 
-					Our Annual Membership Drive is now underway with a 2012 goal of 200 NEW MEMBERS. For just $35.00 per year you can help us continue to 
-					preserve the rich aviation and naval history of NAS Alameda and Alameda Point. For more information, visit 
-					<a href="GetInvolved.aspx">How to Get Involved</a>. Don't wait, please join us today!
-				</div>
-			</div>
-			<div style="height: 1em;">&nbsp;</div>
-			<div class="module">
 				<div class="hd clickable" onclick="window.location.href='VHP.aspx'">Subjects Needed for Veterans History Project Interviews</div>
 				<div class="bd">
 					Are you a U.S. military veteran who served during WWII, the Korean War, Viet Nam, or perhaps at NAS Alameda? If you are, or you
@@ -178,6 +147,8 @@
 			<div class="module">
 				<div class="hd">In the News</div>
 				<div class="bd">
+					<p><b>Sunday, February 10th, 2013</b> Friends and Guests of the museum attended the 2013 Annual General Membership and had the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point.</p>
+
 					<p><b>Sunday, September 16th, 2012</b> the Alameda Naval Air Museum hosted the East Bay Collector Car and Parts Swap Meet.</p>
 
 					<p><b>Saturday, November 12th, 2011</b> the Alameda Naval Air Museum held a special Open House featuring live demonstrations by the US Navy and Coast Guard Maritime Safety and Security crews and their vessels.  Museum staff, including history re-enactors, were on hand to guide guests through the museum’s three floors of exhibits. Films were shown throughout the day in the Mayor “Chuck” Corica Ready Room, and visitors learned about the world’s first transpacific flight in ANAM’s China Clipper Hall.</p>
