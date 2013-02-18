@@ -7,9 +7,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="cpHead" Runat="Server">
 	<style type="text/css">
 		@media print {
-			#hd, #sidenav-content, #ft, #btnPrint { display: none; }
+			#hd, #ft, #sidenav-content, #btnPrint  {
+				display: none;
+			}
+			.yui-t1 #yui-main .yui-b {
+				margin-left: 0;
+			}
 		}
-	</style>
+		</style>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="cpMain" Runat="Server">
@@ -19,8 +24,8 @@
 			<button type="button">Click here to print this form</button>
 		</span>
 	</span>
-	<div style="border:1px solid #555; margin-top:1em; padding:1em;">
-		<img src="/images/membership-form.jpg" width="700" height="523" alt="" />
+	<div style="margin-top:1em;">
+		<img src="/images/membership-form-2013.jpg" width="700" height="755" style="border:1px solid #555;" />
 	</div>
 </asp:Content>
 

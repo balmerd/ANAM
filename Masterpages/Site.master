@@ -4,8 +4,8 @@
 
 <html lang="en" >
 <head runat="server">
-    <meta charset="utf-8" />
-    <title>Alameda Naval Air Museum</title>
+	<meta charset="utf-8" />
+	<title>Alameda Naval Air Museum</title>
 	<meta name="description" content="Our museum is home to a unique collection of artifacts and exhibits emphasizing the role of the Alameda Naval Air Station in the defense of our nation and as an integral part of the local community of Alameda, California for over 50 years." />
 	<meta name="keywords" content="NAS, Alameda, California, NAS Alameda, Naval Air Station, Naval Air Museum, U.S. Navy, Aviation, Museum, History" />
 	<!-- Combo-handled YUI CSS files: -->
@@ -32,7 +32,7 @@
 	</asp:contentplaceholder>
 </head>
 <body class="yui-skin-sam">
-    <form id="form1" runat="server">
+	<form id="form1" runat="server">
 		<div id="doc4" class="yui-t1">
 			<div id="hd" style="background:#008; height:60px;">
 				<img src="/images/banner-avenger.jpg" width="974" height="60" alt="Alameda Naval Air Museum" />
@@ -42,7 +42,7 @@
 					<div id="main-content" class="yui-b">
 						<asp:contentplaceholder id="cpMain" runat="server">
 						</asp:contentplaceholder>
- 					</div>
+					</div>
 				</div>
 				<div id="sidenav-content" class="yui-b">
 					<ul id="navlist">
@@ -53,6 +53,9 @@
 						<li><a href="/History/NAS.aspx">NAS History</a></li>
 						<li><a href="/History/NADEP.aspx">NADEP History</a></li>
 						<li class="space-above"><a href="/VisitorInfo.aspx">Visitor Information</a></li>
+						<!--
+						<li class="space-above"><a href="/Newsletter.aspx">From the Tower</a></li>
+						-->
 						<li class="space-above"><a href="/Exhibits.aspx">Exhibits</a></li>
 						<li><a href="/Gallery.aspx">Photo Gallery</a></li>
 						<li><a href="/InMemory.aspx">In Memory</a></li>
@@ -64,6 +67,7 @@
 						<li class="space-above"><a href="/Search.aspx">Search</a></li>
 						<li><a href="/Contact.aspx">Contact Us</a></li>
 						<li><a href="/Volunteer.aspx">Volunteer</a></li>
+						<li><a href="/Forms/Membership.aspx">Become a Member</a></li>
 						<li><a href="/GetInvolved.aspx">How to Get Involved</a></li>
 						<li><a href="/VHP.aspx">Veterans History Project</a></li>
 					</ul>
@@ -71,11 +75,14 @@
 			</div>
 			<div id="ft">
 				<div id="copyright">Copyright &copy; <asp:Literal ID="litYear" runat="server" /> Alameda Naval Air Museum</div>
-				<div id="webmail"><%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "email our webmaster")%></div>
+				<div id="webmail">
+					<%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "email our webmaster")%>
+					<!--a href="http://www.facebook.com/profile.php?id=100000527714849" target="_blank"><img src="../Images/facebook16x16.gif" alt="Follow us on FaceBook" /></a-->
+				</div>
 			</div>
 			<div class="clear"></div>
 		</div>
-    </form>
+	</form>
 	<!-- Combo-handled YUI JS files: -->
 	<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/yahoo/yahoo-min.js&amp;2.6.0/build/dom/dom-min.js&amp;2.6.0/build/event/event-min.js&amp;2.6.0/build/animation/animation-min.js&amp;2.6.0/build/element/element-beta-min.js&amp;2.6.0/build/button/button-min.js&amp;2.6.0/build/carousel/carousel-beta-min.js&amp;2.6.0/build/tabview/tabview-min.js"></script>
 	<script type="text/javascript" src="/scripts/anam-min.js"></script>
