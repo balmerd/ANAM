@@ -66,7 +66,7 @@
 		<span id="btnZ" class="yui-button"><span class="first-child"><button type="button">Z</button></span></span>
 	</div>
 	<h1 id="memHeader" runat="server">In Memory</h1>
-	<p id="memCaption" runat="server">In honoring the civilian and military personnel that worked at, or flew out of, NAS Alameda or the Naval Aviation Depot, we dedicate this page to them. Research continues, and we owe many thanks to a number of our visitors who have added their first hand knowledge to help us complete these lists. We have tried to be as accurate as possible, and if you have updated information, please email our <%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "webmaster")%> with any details.</p>
+	<p id="memCaption" runat="server">In honoring the civilian and military personnel that worked at, or flew out of, NAS Alameda or the Naval Aviation Depot, we dedicate this page to them. Research continues, and we owe many thanks to a number of our visitors who have added their first hand knowledge to help us complete these lists. We have tried to be as accurate as possible, and if you have updated information, please email our <%=ANAM.MailUtil.ObfuscateEmail("webmaster@alamedanavalairmuseum.org", "webmaster")%> with any details.</p>
 	<div class="in-memory">
 		<asp:DataList ID="dlMemorial" runat="server" RepeatColumns="2" Width="100%" BorderStyle="none" Visible="false">
 			<ItemTemplate>

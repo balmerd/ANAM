@@ -70,7 +70,7 @@
 			</div>
 			<div id="ft">
 				<div id="copyright">Copyright &copy; <asp:Literal ID="litYear" runat="server" /> Alameda Naval Air Museum</div>
-				<div id="webmail"><%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "email our webmaster")%></div>
+				<div id="webmail"><%=ANAM.MailUtil.ObfuscateEmail("webmaster@alamedanavalairmuseum.org", "email our webmaster")%></div>
 			</div>
 			<div class="clear"></div>
 		</div>

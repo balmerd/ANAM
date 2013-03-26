@@ -19,26 +19,21 @@
 			<div style="height:17px; min-height:17px;"></div>
 		</div> 
 	</div>
-	<!--
-	<div class="module">
-		<div class="hd">President, Co-founder</div> 
+	<div class="clear1em"></div>
+	<div class="module" style="margin-right:20px;">
+		<div class="hd">Research</div> 
 		<div class="bd">
-			<div style="float:left; width:100%;">
-				<div style="float:left; width:100px;">
-					<div class="polaroid">
-						<div class="bd">
-							<img src="/images/staff/york-m.jpg" width="86" height="100" alt="" />
-						</div>
-					</div>
-				</div>
-				<div style="float:left; width:250px;">
-					<br /><b>Marilyn York</b><br />&nbsp;<br />510-352-2750<br />&nbsp;<br /><%=ANAM.MailUtil.ObfuscateEmail("bbaack@att.net")%><br />&nbsp;
-				</div>
-			</div>
-			<div class="clear"></div>
+			Do you have a question for our museum research team? Would you like to share some information about NAS Alameda or early aviation at Alameda Point? 
+			If so, please contact us at <%=ANAM.MailUtil.ObfuscateEmail("research@alamedanavalairmuseum.org")%>
 		</div> 
 	</div>
-	-->
+	<div class="module">
+		<div class="hd">Board of Directors</div> 
+		<div class="bd">
+			Would you like to share feedback with the museum board of directors? Do you have a suggestion on ways to improve the museum experience? 
+			Please send us a note at <%=ANAM.MailUtil.ObfuscateEmail("board@alamedanavalairmuseum.org")%>
+		</div> 
+	</div>
 	<div class="clear1em"></div>
 	<div class="module" style="margin-right:20px;">
 		<div class="hd">Curator</div> 
@@ -146,7 +141,7 @@
 				<div style="float:left; width:250px;">
 					<br /><b>David Balmer</b><br />&nbsp;
 					<br /><a href="http://www.dbalmer.net" target="_blank">http://www.dbalmer.net</a><br />&nbsp;
-					<br /><%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com")%><br />&nbsp;
+					<br /><%=ANAM.MailUtil.ObfuscateEmail("webmaster@alamedanavalairmuseum.org")%><br />&nbsp;
 				</div>
 			</div>
 			<div class="clear"></div>

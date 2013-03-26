@@ -76,7 +76,7 @@
 			<div id="ft">
 				<div id="copyright">Copyright &copy; <asp:Literal ID="litYear" runat="server" /> Alameda Naval Air Museum</div>
 				<div id="webmail">
-					<%=ANAM.MailUtil.ObfuscateEmail("anam.webmaster@gmail.com", "email our webmaster")%>
+					<%=ANAM.MailUtil.ObfuscateEmail("webmaster@alamedanavalairmuseum.org", "email our webmaster")%>
 					<!--a href="http://www.facebook.com/profile.php?id=100000527714849" target="_blank"><img src="../Images/facebook16x16.gif" alt="Follow us on FaceBook" /></a-->
 				</div>
 			</div>
