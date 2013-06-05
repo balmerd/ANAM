@@ -87,13 +87,11 @@
 					If you are interested or have questions, please contact<br />Kin Robles: <%=ANAM.MailUtil.ObfuscateEmail("anammedia@mac.com")%>
 				</div>
 			</div>
-			-->
-			<!--
 			<div class="module">
 				<div class="hd">Upcoming Events</div>
 				<div class="bd">
-					<b>Sunday, September 16th, 2012</b>&nbsp;
-					<a href="images/events/swapmeet.pdf" target="_blank">East Bay Collector Car and Parts Swap Meet</a>.&nbsp;&nbsp;Automotive fans and collectors will enjoy this annual event. Admission and Parking are free, and vendor stalls are available.
+					<b>Sunday, April 7th from 6am - 3pm</b>&nbsp;
+					<a href="images/events/swapmeet2013.pdf" target="_blank">East Bay Collector Car and Parts Swap Meet</a>.&nbsp;&nbsp;Automotive fans and collectors will enjoy this annual event. Admission and Parking are free, and vendor stalls are available.
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
@@ -147,9 +145,9 @@
 			<div class="module">
 				<div class="hd">In the News</div>
 				<div class="bd">
-					<p><b>Sunday, February 10th, 2013</b> Friends and Guests of the museum attended the 2013 Annual General Membership and had the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point.</p>
+					<p><b>Sunday, April 7th, 2013</b> the Alameda Naval Air Museum hosted the East Bay Collector Car and Parts Swap Meet.</p>
 
-					<p><b>Sunday, September 16th, 2012</b> the Alameda Naval Air Museum hosted the East Bay Collector Car and Parts Swap Meet.</p>
+					<p><b>Sunday, February 10th, 2013</b> Friends and Guests of the museum attended the 2013 Annual General Membership and had the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point.</p>
 
 					<p><b>Saturday, November 12th, 2011</b> the Alameda Naval Air Museum held a special Open House featuring live demonstrations by the US Navy and Coast Guard Maritime Safety and Security crews and their vessels.  Museum staff, including history re-enactors, were on hand to guide guests through the museum’s three floors of exhibits. Films were shown throughout the day in the Mayor “Chuck” Corica Ready Room, and visitors learned about the world’s first transpacific flight in ANAM’s China Clipper Hall.</p>
 

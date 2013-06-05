@@ -25,12 +25,12 @@
 					<td style="border-style:none;">
 						<b>Administration</b>
 						<ul>
-							<li>Office Manager</li>
+							<!--li>Office Manager (filled by Charlene Parry)</li-->
 							<li>Secretary</li>
 							<li>Transcriber</li>
 							<li>Membership Manager</li>
 							<li>Program Manager</li>
-							<li><a href="http://alameda.patch.com/announcements/volunteer-program-manager" target="_blank">Volunteer Program Manager</a></li>
+							<!--li><a href="http://alameda.patch.com/announcements/volunteer-program-manager" target="_blank">Volunteer Program Manager (filled by Tom Meehan)</a></li-->
 						</ul>
 						<b>Archive & Preservation</b>
 						<ul>
@@ -40,7 +40,7 @@
 						</ul>
 						<b>Fundraising</b>
 						<ul>
-							<li>Fundraising Director</li>
+							<li>Fundraising Manager</li>
 							<li><a href="http://alameda.patch.com/announcements/grant-writer-for-non-profit-museum" target="_blank">Grant Writer</a></li>
 							<li>Associate Fundraiser</li>
 							<li>Gift Shop Sales Associate</li>
