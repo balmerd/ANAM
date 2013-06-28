@@ -29,12 +29,6 @@
 	<h1>Board of Directors</h1>
 	<div class="polaroid">
 		<div class="bd">
-			<img src="/images/staff/robles-k.jpg" width="125" height="145" alt="" />
-			<div class="caption">Kin Robles<div>Chairman</div></div>
-		</div>
-	</div>
-	<div class="polaroid">
-		<div class="bd">
 			<img src="/images/staff/musso-f.jpg" width="125" height="145" alt="" />
 			<div class="caption">Frank Musso<div>Secretary</div></div>
 		</div>
@@ -57,13 +51,13 @@
 			<div class="caption">Chief Bronson Parry<div>&nbsp;</div></div>
 		</div>
 	</div>
-	<div class="clear"></div>
 	<div class="polaroid">
 		<div class="bd">
 			<img src="/images/staff/pirack-l.jpg" width="125" height="145" alt="" />
 			<div class="caption">Larry Pirack<div>&nbsp;</div></div>
 		</div>
 	</div>
+	<div class="clear"></div>
 	<div class="polaroid">
 		<div class="bd">
 			<img src="/images/staff/tubbs-a.jpg" width="125" height="145" alt="" />
@@ -107,10 +101,11 @@
 		<div><span class="person-name">Betty Oliveri</span>Gift Shop / Membership</div>
 		<div><span class="person-name">Chief Bronson Parry</span>Community Outreach</div>
 		<div><span class="person-name">Alan Tubbs</span>Military Liason</div>
-		<div><span class="person-name">Kin Robles</span>Public Relations</div>
 		<div><span class="person-name">Brian McMahon</span>Advertising</div>
 		<div><span class="person-name">David Balmer</span>Webmaster</div>
 		<div><span class="person-name">William T. Larkins</span>Aviation Historian</div>
+		<div><span class="person-name">Charlene Parry</span>Office Manager</div>
+		<div><span class="person-name">Tom Meehan</span>Volunteer Program Manager</div>
 	</div>
 
 	<h1 style="margin-top:0.5em;">Operations Team</h1>

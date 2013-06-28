@@ -15,7 +15,7 @@
 	Volunteers of all ages who possess specific skills and interests are welcome to apply. 
 	The Alameda Naval Air Museum is registered with the State of California as a non-profit 501(c)(3) organization.</p>
 
-	<p>For more information, please contact Kin Robles at 925-759-2090 or via E-Mail at <%=ANAM.MailUtil.ObfuscateEmail("anammedia@mac.com")%></p>
+	<p>For more information, please contact Larry Pirack at 510-522-6440 or via E-Mail at <%=ANAM.MailUtil.ObfuscateEmail("backtothe40s@gmail.com")%></p>	
 
 	<div class="module">
 		<div class="hd">Volunteer Positions</div> 
@@ -25,12 +25,10 @@
 					<td style="border-style:none;">
 						<b>Administration</b>
 						<ul>
-							<!--li>Office Manager (filled by Charlene Parry)</li-->
 							<li>Secretary</li>
 							<li>Transcriber</li>
 							<li>Membership Manager</li>
 							<li>Program Manager</li>
-							<!--li><a href="http://alameda.patch.com/announcements/volunteer-program-manager" target="_blank">Volunteer Program Manager (filled by Tom Meehan)</a></li-->
 						</ul>
 						<b>Archive & Preservation</b>
 						<ul>

@@ -46,7 +46,7 @@ Alameda Naval Air Museum, located at 2151 Ferry Point Rd., Building 77, Alameda 
 501(c) (3) organization. The all-volunteer museum has been in operation since 2004.
 </p>
 
-<p><a href="ChinaClipperVideo.aspx">Click here</a> to see the promotional video for this event, created by Brian McMahon and narrated by our very own Kin Robles.</p>
+<p><a href="ChinaClipperVideo.aspx">Click here</a> to see the promotional video for this event, created by Brian McMahon and narrated by our former Chairman, Kin Robles.</p>
 
 <p>Many thanks to our <a href="C75Partners.aspx">China Clipper 75 Event Partners</a>.</p>
 

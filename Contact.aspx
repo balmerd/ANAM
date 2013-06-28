@@ -54,25 +54,6 @@
 		</div> 
 	</div>
 	<div class="module">
-		<div class="hd">Public Relations</div> 
-		<div class="bd">
-			<div style="float:left; width:100%;">
-				<div style="float:left; width:100px;">
-					<div class="polaroid">
-						<div class="bd">
-							<img src="/images/staff/robles-k.jpg" width="86" height="100" alt="" />
-						</div>
-					</div>
-				</div>
-				<div style="float:left; width:250px;">
-					<br /><b>Kin Robles</b><br />&nbsp;<br /><br />&nbsp;<br /><%=ANAM.MailUtil.ObfuscateEmail("anammedia@mac.com")%><br />&nbsp;
-				</div>
-			</div>
-			<div class="clear"></div>
-		</div> 
-	</div>
-	<div class="clear1em"></div>
-	<div class="module" style="margin-right:20px;">
 		<div class="hd">Event Coordinator, Membership</div> 
 		<div class="bd">
 			<div style="float:left; width:100%;">
@@ -90,7 +71,8 @@
 			<div class="clear"></div>
 		</div> 
 	</div>
-	<div class="module">
+	<div class="clear1em"></div>
+	<div class="module" style="margin-right:20px;">
 		<div class="hd">Acquisitions</div> 
 		<div class="bd">
 			<div style="float:left; width:100%;">
@@ -108,8 +90,7 @@
 			<div class="clear"></div>
 		</div> 
 	</div>
-	<div class="clear1em"></div>
-	<div class="module" style="margin-right:20px;">
+	<div class="module">
 		<div class="hd">Community Relations</div> 
 		<div class="bd">
 			<div style="float:left; width:100%;">
@@ -127,7 +108,8 @@
 			<div class="clear"></div>
 		</div> 
 	</div>
-	<div class="module">
+	<div class="clear1em"></div>
+	<div class="module" style="margin-right:20px;">
 		<div class="hd">Webmaster, Site Design and Development</div> 
 		<div class="bd">
 			<div style="float:left; width:100%;">
