@@ -99,8 +99,8 @@
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
 				<div class="bd">
-					Kin has retired from the Museum after many years of service.
-					<p style="margin-top:0.5em; margin-bottom:0; padding-bottom:0;">We appreciate all that Kin has done to advance the cause of our Museum, and wish him all the best in his future endeavours.</p>
+					Kin has retired from the museum after many years of service.
+					<p style="margin-top:0.5em; margin-bottom:0; padding-bottom:0;">We appreciate all that Kin has done to advance the cause of the museum, and wish him all the best in his future endeavours.</p>
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
