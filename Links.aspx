@@ -92,6 +92,9 @@
 					used in hundreds of military applications, products, and ships because of its resistance to fire.
 				</p>
 				<p>
+					<a href="http://www.mesotheliomaguide.com/" target="_blank">The Mesothelioma Guide</a> offers free veteran specific resources and support for patients and families.
+				</p>
+				<p>
 					<a href="http://www.asbestos.com/veterans/" target="_blank">The Mesothelioma Center</a> provides a complete list of occupations, ships, and shipyards 
 					that could have put our Veterans at risk for developing asbestos-related diseases. In addition, they have thousands of articles regarding asbestos and 
 					mesothelioma have a veterans-specific section on their website in order to help inform about the dangers of asbestos exposure.
