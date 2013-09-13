@@ -96,6 +96,7 @@
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
 			-->
+			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
 				<div class="bd">
@@ -104,6 +105,7 @@
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
+			-->
 			<div class="module">
 				<div class="hd clickable" onclick="window.location.href='GetInvolved.aspx'">Annual Museum Membership Drive</div>
 				<div class="bd">
