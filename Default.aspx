@@ -87,15 +87,15 @@
 					If you are interested or have questions, please contact<br />Larry Pirack: <%=ANAM.MailUtil.ObfuscateEmail("backtothe40s@gmail.com")%>
 				</div>
 			</div>
+			-->
 			<div class="module">
 				<div class="hd">Upcoming Events</div>
 				<div class="bd">
-					<b>Sunday, April 7th from 6am - 3pm</b>&nbsp;
-					<a href="images/events/swapmeet2013.pdf" target="_blank">East Bay Collector Car and Parts Swap Meet</a>.&nbsp;&nbsp;Automotive fans and collectors will enjoy this annual event. Admission and Parking are free, and vendor stalls are available.
+					<b>Sunday, September 29th from 6am - 3pm</b>&nbsp;
+					<a href="images/events/SwapMeetSep2013.pdf" target="_blank">East Bay Collector Car and Parts Swap Meet</a>.&nbsp;&nbsp;Automotive fans and collectors will enjoy this annual event. Admission and Parking are free, and vendor stalls are available.
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
-			-->
 			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
