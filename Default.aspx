@@ -87,7 +87,6 @@
 					If you are interested or have questions, please contact<br />Larry Pirack: <%=ANAM.MailUtil.ObfuscateEmail("backtothe40s@gmail.com")%>
 				</div>
 			</div>
-			-->
 			<div class="module">
 				<div class="hd">Upcoming Events</div>
 				<div class="bd">
@@ -96,7 +95,6 @@
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
-			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
 				<div class="bd">
