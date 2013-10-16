@@ -1,19 +1,8 @@
 ﻿using System;
-using System.Collections;
 using System.Configuration;
 using System.Data;
-using System.Linq;
 using System.Text;
-using System.Web;
-using System.Web.Security;
-using System.Web.UI;
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-using System.Web.UI.WebControls.WebParts;
-using System.Xml;
-using System.Xml.Linq;
-using System.Xml.XPath;
-using System.Xml.Xsl;
+using System.Data.SqlClient;
 	
 namespace ANAM.Web
 {
@@ -23,16 +12,29 @@ namespace ANAM.Web
 		{
 			string key = Request.QueryString["id"];
 			string initial = Request.QueryString["ch"];
-			var db = new MemorialDataContext();
+
+			DataSet ds = null;
+			SqlCommand cmd = null;
+			SqlDataAdapter adapt = null;
+			var conn = new SqlConnection(ConfigurationManager.ConnectionStrings["ANAMConnectionString"].ToString());
+
 			if (!string.IsNullOrEmpty(key)) {
 				memHeader.Visible = false;
 				memCaption.Visible = false;
-				rptMemorialPerson.DataSource = from m in db.ANAM_Memorials where m.Id == int.Parse(key) select m;
+				cmd = new SqlCommand(string.Format("SELECT * FROM ANAM_Memorial WHERE Id = {0}", int.Parse(key)), conn);
+				adapt = new SqlDataAdapter(cmd);
+				ds = new DataSet();
+				adapt.Fill(ds);
+				rptMemorialPerson.DataSource = ds;
 				rptMemorialPerson.DataBind();
 				rptMemorialPerson.Visible = true;
 				litSpacer.Text = makeSpacer(1, 36);
 			} else if (!string.IsNullOrEmpty(initial)) {
-				dlMemorial.DataSource = from m in db.ANAM_Memorials where m.LastName.StartsWith(initial) orderby m.LastName select m;
+				cmd = new SqlCommand(string.Format("SELECT * FROM ANAM_Memorial WHERE LastName LIKE '{0}%' ORDER BY LastName", initial), conn);
+				adapt = new SqlDataAdapter(cmd);
+				ds = new DataSet();
+				adapt.Fill(ds);
+				dlMemorial.DataSource = ds;
 				dlMemorial.DataBind();
 				dlMemorial.Visible = true;
 				litSpacer.Text = makeSpacer(dlMemorial.Items.Count, 30);
@@ -43,13 +45,18 @@ namespace ANAM.Web
 
 		public string makeMemorialLink(Object o)
 		{
-			var m = o as ANAM_Memorial;
-			string fullName = String.Format("{0}, {1} {2} {3}", m.LastName, m.FirstName, m.Rank, m.Status);
-			if (!string.IsNullOrEmpty(m.Link)) {
-				return String.Format("<a href=\"{0}\" target=\"_blank\">{1}</a>", m.Link, fullName);
-			} else if (!string.IsNullOrEmpty(m.Details)) {
-				return String.Format("<a href=\"InMemory.aspx?id={0}\">{1}</a>", m.Id, fullName);
-			} else {
+			var row = o as DataRowView;
+			string fullName = String.Format("{0}, {1} {2} {3}", row["LastName"].ToString(), row["FirstName"].ToString(), row["Rank"].ToString(), row["Status"].ToString());
+			if (!string.IsNullOrEmpty(row["Link"].ToString()))
+			{
+				return String.Format("<a href=\"{0}\" target=\"_blank\">{1}</a>", row["Link"].ToString(), fullName);
+			}
+			else if (!string.IsNullOrEmpty(row["Details"].ToString()))
+			{
+				return String.Format("<a href=\"InMemory.aspx?id={0}\">{1}</a>", row["Id"].ToString(), fullName);
+			}
+			else
+			{
 				return fullName;
 			}
 		}
