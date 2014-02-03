@@ -17,6 +17,14 @@
 	<p>We are continully working to preserve the history of NAS Alameda and her aviation predecessors at Alameda Point, and you can help by sharing your memories of life at NAS Alameda during your time of service. Any old photos, news-clippings, or documentation related to NAS Alameda is vital to our mission. We can digitally scan these items and return to you if necessary. Many former base personnel have spent time jotting down their recollections and forwarding in an e-mail. We're not looking for award winning essays from polished authors. Just the things you remember from your days stationed at Alameda. Even a few paragraphs are valuable to us. Others, who have the capability to scan their photos, send us the digital images of themselves or the base during that same period.  Please contact <a href="/Contact.aspx" style="text-decoration:underline;" target="_blank">Larry Pirack</a> (curator) if you are able to provide us with any original photographs, images or artifacts, and please email our <%=ANAM.MailUtil.ObfuscateEmail("webmaster@alamedanavalairmuseum.org", "webmaster")%> with any additions or updates.</p>
 
 	<div class="module">
+		<div class="hd">Yvette Alcantar</div>
+		<div class="bd">
+			<div>My father Frederick Rosenstock Alcantar last duty station before being discharged from the U.S. Navy was Alameda NAS (around 1946).  He fell in love with Alameda and decided to make it his home. He  continued to work on the base as a DOD civilian aircraft mechanic until he retirement in 1986.   I have many fond memories of Alameda NAS, as a child visiting daddy at work and later as an adult and active service member who had the privilege of utilizing the base facilities.</div>
+			<div style="text-align:right;"><i>-- Yvette Alcantar</i></div>
+		</div> 
+	</div>
+
+	<div class="module" style="margin-top:1em;">
 		<div class="hd">Jimmy Price</div> 
 		<div class="bd">
 			<div>I was part of <a href="/units/helicopters/hm-15.aspx">HM-15</a> when we home ported to Alameda, CA in 1987.  I was an AMS3 stationed with HM-15 till Nov of 1989, and retired from HM-15 as a AM1 out of Corpus Christi, TX</div>

@@ -60,14 +60,6 @@
 		<div class="yui-u">
 			<!--
 			<div class="module">
-				<div class="hd" style="color: #FFD700;">Annual General Membership Meeting</div>
-				<div class="bd">
-					Friends and Guests of the museum are invited to attend the 2013 Annual General Membership meeting to be held at 1:00 PM on Sunday February 10, 2013.<br /><br />
-					As an important part of the Museum’s future, you will have the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point. It’s also an opportunity to provide direct feedback to the Board.
-				</div>
-			</div>
-			<div style="height: 1em;">&nbsp;</div>
-			<div class="module">
 				<div class="hd" style="color: #FFD700;">Museum Open House</div>
 				<div class="bd">
 					On Saturday, November 12th, Alameda Naval Air Museum will host an Open House. All members of the community are cordially invited to attend this FREE event.<br /><br />
@@ -88,13 +80,31 @@
 				</div>
 			</div>
 			<div class="module">
-				<div class="hd">Upcoming Events</div>
+				<div class="hd" style="color: #FFD700;">Upcoming Events</div>
 				<div class="bd">
-					<b>Sunday, September 29th from 6am - 3pm</b>&nbsp;
-					<a href="images/events/SwapMeetSep2013.pdf" target="_blank">East Bay Collector Car and Parts Swap Meet</a>.&nbsp;&nbsp;Automotive fans and collectors will enjoy this annual event. Admission and Parking are free, and vendor stalls are available.
+					<b>Sunday, December 8th from 1:00pm - 4:00pm</b>&nbsp;
+					<p style="margin-top:1em;">The joint Christmas party for <a href="http://www.commemorativeairforce.org/" target="_blank">Commemorative Air Force</a> and Alameda Naval Air Museum members will be held in the Crows Nest at the Museum. The main meal will be served around 3:00pm, and <b>please bring a dish that will feed 4 to 5 people</b>.</p>
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
+			-->
+			<div class="module">
+				<div class="hd" style="color: #FFD700;">New Base Historical Map Available!</div>
+				<div class="bd">
+					All text &amp; photos are from the Combined Specific Buildings Survey and Evaluation Report/Cold War Era Historic Resources Survey and Evaluation Report by JRP Historical Consulting LLC (August 2010) unless otherwise noted.
+					<p style="margin-top:1em;">See our new map at <a target="_blank" href="https://mapsengine.google.com/map/viewer?mid=zuZ1nxyfcR0s.kwbBvmvCBULI">NAS Alameda Map Project</a>.</p>
+				</div>
+			</div>
+			<div style="height: 1em;">&nbsp;</div>
+			<div class="module">
+				<div class="hd">Annual General Membership Meeting</div>
+				<div class="bd">
+					Friends and Guests of the museum are invited to attend the 2014 Annual General Membership meeting to be held at 1:00 PM on Sunday February 9, 2014.<br /><br />
+					As an important part of the Museum’s future, you will have the opportunity to hear our plan for strengthening our current position, building for a sustainable future, and expanding our mission to preserve the history of NAS Alameda and Alameda Point. It’s also an opportunity to provide direct feedback to the Board.
+				</div>
+			</div>
+			<div style="height: 1em;">&nbsp;</div>
+			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
 				<div class="bd">
