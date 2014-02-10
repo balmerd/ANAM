@@ -92,10 +92,11 @@
 				<div class="hd" style="color: #FFD700;">New Base Historical Map Available!</div>
 				<div class="bd">
 					All text &amp; photos are from the Combined Specific Buildings Survey and Evaluation Report/Cold War Era Historic Resources Survey and Evaluation Report by JRP Historical Consulting LLC (August 2010) unless otherwise noted.
-					<p style="margin-top:1em;">See our new map at <a target="_blank" href="https://mapsengine.google.com/map/viewer?mid=zuZ1nxyfcR0s.kwbBvmvCBULI">NAS Alameda Map Project</a>.</p>
+					<p style="margin-top:1em;">See our new map at <a target="_blank" href="https://mapsengine.google.com/map/viewer?mid=zuZ1nxyfcR0s.kwbBvmvCBULI">The NAS Alameda Map Project</a>, compiled by ETC Josh Price, U.S. Coast Guard.</p>
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
+			<!--
 			<div class="module">
 				<div class="hd">Annual General Membership Meeting</div>
 				<div class="bd">
@@ -104,7 +105,6 @@
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
-			<!--
 			<div class="module">
 				<div class="hd" style="color: #FFD700;">Farewell to Kin Robles</div>
 				<div class="bd">
