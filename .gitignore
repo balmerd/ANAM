@@ -166,3 +166,5 @@ pip-log.txt
 ## ANAM
 #################
 *.config
+App_Code/Linq/Memorial.designer.cs
+vwd.webinfo

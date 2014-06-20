@@ -45,7 +45,7 @@ http://maps.google.com/maps/api/geocode/json?address=2151+Ferry+Point,+Alameda,+
 			are available, by appointment, Wednesdays noon to 4:00pm.<br />
 			Call 510-522-4262 for more information.
 		</p>
-		<p>Admission is $5.00<br />(free for under twelve and active military in uniform or with ID<br />and for organized youth groups by appointment).</p>
+		<p>Admission is $7.00<br />(free for under twelve and active military in uniform or with ID<br />and for organized youth groups by appointment).</p>
 		<div>
 			Free Parking and Wheelchair Accessible&nbsp;
 			<img src="/images/map-icon-accessible.gif" width="26" height="26" alt=""/>
