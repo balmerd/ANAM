@@ -22,6 +22,9 @@
 		</div>
 	</div>
 	<div class="clear"></div>
+    <div style="margin-bottom:0.5em;">
+        <img src="images/oct-2014-swap-meet.png" />
+    </div>
 	<div class="yui-g">
 		<div class="yui-u first">
 			<div id="gallery">
@@ -114,6 +117,7 @@
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
 			-->
+            <!--
 			<div class="module">
 				<div class="hd clickable" onclick="window.location.href='GetInvolved.aspx'">Annual Museum Membership Drive</div>
 				<div class="bd">
@@ -124,6 +128,7 @@
 				</div>
 			</div>
 			<div style="height: 1em;">&nbsp;</div>
+            -->
 			<div class="module">
 				<div class="hd">NAS Alameda Book</div>
 				<div class="bd">

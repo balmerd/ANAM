@@ -6,6 +6,7 @@
 <head runat="server">
 	<meta charset="utf-8" />
 	<title>Alameda Naval Air Museum</title>
+    <base href="http://alamedanavalairmuseum.org" />
 	<meta name="description" content="Our museum is home to a unique collection of artifacts and exhibits emphasizing the role of the Alameda Naval Air Station in the defense of our nation and as an integral part of the local community of Alameda, California for over 50 years." />
 	<meta name="keywords" content="NAS, Alameda, California, NAS Alameda, Naval Air Station, Naval Air Museum, U.S. Navy, Aviation, Museum, History" />
 	<!-- Combo-handled YUI CSS files: -->

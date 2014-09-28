@@ -1,6 +1,8 @@
 ﻿User-agent: *
 Disallow: /App_Code/
 Disallow: /App_Data/
+Disallow: /arcadia
+Disallow: /ADMIN
 Disallow: /Bin/
 Disallow: /build/
 Disallow: /DBScripts/
